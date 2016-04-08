@@ -1,2 +1,2 @@
-print("goodbye world")
-print("last GB")
+print("goodbye world;")
+print("last GB;")
