@@ -1,2 +1,0 @@
-print("goodbye world;")
-print("last GB;")
